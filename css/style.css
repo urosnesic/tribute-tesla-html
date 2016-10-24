@@ -1,0 +1,28 @@
+body {
+	margin-top: 50px;
+}
+
+#portrait {
+	margin: auto;
+}
+
+#inventions {
+	margin-top: 20px;
+}
+
+ul {
+	margin-left: 35%;
+	font-size: 20px;
+}
+
+ul li {
+	margin-top: 20px;
+}
+
+#gallery {
+	margin-top: 50px;
+}
+
+#footer {
+	margin-top: 40px;
+}
